@@ -14,7 +14,7 @@
     "tiny-json-http": "7.2.0",
     "serve": "5.2.1",
     "pouchdb": "6.0.2",
-    "total.js": "2.2.1",
+    "total.js": "3.4.3",
     "sequelize": "3.9.0",
     "uglify-js": "2.4.0",
     "libxmljs": "0.4.2"
