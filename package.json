@@ -13,7 +13,7 @@
     "summit": "0.0.9",
     "tiny-json-http": "7.2.0",
     "serve": "5.2.1",
-    "pouchdb": "6.0.2",
+    "pouchdb": "6.0.5",
     "total.js": "2.2.1",
     "sequelize": "3.35.1",
     "uglify-js": "2.4.0",
