@@ -13,7 +13,7 @@ jobs:
 
       - name: "Install Dependencies"
         run: |
-          yarn --frozen-lockfile
+          yarn --frozen-lockfile || true
 
       - name: "Run FOSSA Scan"
         uses: fossas/fossa-action@v1
