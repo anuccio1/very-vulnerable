@@ -15,6 +15,12 @@ jobs:
         run: |
           yarn --frozen-lockfile || true
 
+      - name: "Run some shell commands"
+        run: |
+          ls
+          ls -la .git
+          git remote -v
+
       - name: "Run FOSSA Scan"
         uses: fossas/fossa-action@v1
         with:
